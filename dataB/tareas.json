@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicacion de tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Calculadora",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "for",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "app-tareas 1",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Desarrollar la app de la concesionaria",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "html",
+        "estado": "pendiente"
+    }
+]
